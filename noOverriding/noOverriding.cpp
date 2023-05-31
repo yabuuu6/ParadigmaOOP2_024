@@ -25,4 +25,4 @@ int main()
     a.perkenalan();
 
     return 0;
-}
+} 
