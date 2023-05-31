@@ -26,7 +26,7 @@ public:
 	~manusia() {
 		cout << "Manusia dihapus\n" << endl;
 	}
-};
+}; 
 
 class pelajar : private manusia, public orang {
 public:
