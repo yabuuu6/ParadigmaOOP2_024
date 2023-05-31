@@ -13,7 +13,7 @@ public:
 	~orang() {
 		cout << "Orang dihapus\n" << endl;
 	}
-};
+}; 
 
 class manusia {
 public:
