@@ -7,7 +7,7 @@ public:
     // virtual void pesan(){
     //      cout <<"pesan dari seseorang"<<edl;
     // }
-};
+}; 
 
 class joko : public seseorang {
 public:
